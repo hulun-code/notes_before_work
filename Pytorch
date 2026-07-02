@@ -1,0 +1,11 @@
+# Pytorch 安装 review
+1.确定安装的是GPU还是CPU
+2.安装Anaconda，这是控制python版本和python各个包的部分。安装时要把环境变量加入到系统当中。
+
+preview
+似乎没有展示conda install pytorch的界面，需要到pytorch界面中查看版本。
+
+# Douyin tutorial
+mmcv
+
+尝试修改文件夹名称，里面有space，对一些package不友好
